@@ -1,1 +1,2 @@
-this is two views
+this is first views
+this is two views.py
